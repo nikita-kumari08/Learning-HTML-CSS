@@ -12,7 +12,7 @@ Welcome to my learning repository focused on mastering the fundamentals and adva
 This repository is part of my self-learning initiative to:
 - Build solid frontend fundamentals
 - Practice hands-on implementation of key concepts
-- Create a personal knowledge base for future 
+- Create a personal knowledge base for future reference 
 - Share my learning journey with others starting out in web development
 
 ---
