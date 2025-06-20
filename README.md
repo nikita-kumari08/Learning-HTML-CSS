@@ -56,4 +56,7 @@ You can explore this repo folder by folder. Each contains a README and live exam
 
 ---
 
-> 
+> 💬 *Learning never exhausts the mind – it fuels it.*  
+> If you're learning too, feel free to reach out or collaborate!
+
+---
