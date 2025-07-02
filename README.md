@@ -3,7 +3,7 @@
 Welcome to my learning repository focused on mastering the fundamentals and advanced concepts of HTML and CSS. This repo serves as a structured space where I document everything I learn as a budding frontend developer.
 
 > 🚀 I'm Nikita Kumari, a B.Tech ECE student at UCET Hazaribagh, currently building a strong foundation in web development.  
-> 🔗 GitHub: [nikita-kumari08](https://github.com/nikita-kumari08) |
+> 🔗 GitHub: [nikita-kumari08](https://github.com/nikitakumari-08) |
 
 ---
 
